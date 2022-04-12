@@ -1,3 +1,6 @@
+最新官方下载地址：https://github.com/BIMK/PlatEMO
+本地址代码为历史代码。版本号为3.1
+
 <div><img src="https://wx1.sinaimg.cn/mw690/00752cx4ly1giwaot2hg8j30u00uzmya.jpg" width=256></div>
 
 #
